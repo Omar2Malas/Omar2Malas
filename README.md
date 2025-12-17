@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Omar Malas
 
-<!--
-**Omar2Malas/Omar2Malas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Master’s student in Distributed Systems and Data Science**, currently focused on building strong foundations in data analysis, machine learning, and artificial intelligence.
 
-Here are some ideas to get you started:
+On this GitHub, I share projects related to:
+- 📊 Data analysis and exploratory data analysis (EDA)
+- ⏱️ Time series forecasting
+- 🤖 Machine learning models
+- 🧠 Deep learning models
+- 🗣️ Natural language processing (NLP)
+- 🔍 Large language models (LLMs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to learn by building practical projects, experimenting with real datasets, and continuously improving my understanding of both theoretical and applied aspects of data science.
+
+Feel free to explore my repositories !
