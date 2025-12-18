@@ -3,11 +3,8 @@
 I am a **Master’s student in Distributed Systems and Data Science**, currently focused on building strong foundations in data analysis, machine learning, and artificial intelligence.
 
 On this GitHub, I share projects related to:
-- 📊 Data analysis and exploratory data analysis (EDA)
-- ⏱️ Time series forecasting
 - 🤖 Machine learning models
 - 🧠 Deep learning models
-- 🗣️ Natural language processing (NLP)
 - 🔍 Large language models (LLMs)
 
 My goal is to learn by building practical projects, experimenting with real datasets, and continuously improving my understanding of both theoretical and applied aspects of data science.
