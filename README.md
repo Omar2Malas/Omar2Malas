@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Omar Malas
 
-I am a **Master’s student in Distributed Systems and Data Science**, currently focused on building strong foundations in data analysis, machine learning, and artificial intelligence.
+I am a **Master’s student in Distributed Systems and Data Science**, currently focused on building strong foundations in artificial intelligence and LLM's.
 
 On this GitHub, I share projects related to:
 - 🤖 Machine learning models
